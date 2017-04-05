@@ -1,4 +1,4 @@
-package com.app.joyfulkitchen;
+package cascade.mrwujay.com.cascade_master;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.app.joyfulkitchen", appContext.getPackageName());
+        assertEquals("cascade.mrwujay.com.cascade_master", appContext.getPackageName());
     }
 }

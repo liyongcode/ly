@@ -1,4 +1,4 @@
-package com.app.joyfulkitchen;
+package cascade.mrwujay.com.cascade_master;
 
 import org.junit.Test;
 
